@@ -1,4 +1,4 @@
-👋  Hi, I’m @notrealdev
+👋  Hi, I am @notrealdev
 
 👀  I’m interested in developing a website from the ground up.
 
