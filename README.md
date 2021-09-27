@@ -2,7 +2,7 @@
 
 👀  I’m interested in developing a website from the ground up.
 
-🌱  I’m currently learning to create wordpress website.
+🌱  I’m currently learning to create wordpress, shopify website.
 
 💞️  I’m learning about hosting and domain so I can create my own website.
 
